@@ -1,5 +1,6 @@
-import Quiz from './components/Quiz';
+import Quiz from "./components/Quiz";
 
+// Test comment for CI/CD workflow
 function App() {
   return (
     <div className="App">
